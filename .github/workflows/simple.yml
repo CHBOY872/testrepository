@@ -15,3 +15,4 @@ jobs:
           echo "My name is gustavo"
       - name: say hi!
         run: echo "hi!"
+        shell: bash
